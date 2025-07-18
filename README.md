@@ -11,5 +11,6 @@
 - **Currently Learning:** JavaScript, Node.js  
 
 🛠️ Projects:
-- Delta Driving School FES – Driving school front-end system in C# + .NET FRAMEWORK + MS SQL 
+# Delta Driving School FES
+Delta Driving School FES is a desktop-based management system built using C# and the .NET Framework, backed by MS SQL Server. The system is designed to support the core operational needs of a driving school — including instructor management, learner registrations, booking lessons, and payment tracking.
 
