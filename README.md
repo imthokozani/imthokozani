@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Thokozani
 
-<!--
-**imthokozani/imthokozani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science & IT student at UKZN, South Africa  
+🔧 Passionate about backend development
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- **Languages:** C#, Java, Python, C++, SQL  
+- **Frameworks:** .NET  
+- **Databases:** MS SQL Server 
+- **Tools:** Git, GitHub, Draw.io, Visual Studio
+- **Currently Learning:** JavaScript, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects:
+- Delta Driving School FES – Driving school front-end system in C# + .NET FRAMEWORK + MS SQL 
+
