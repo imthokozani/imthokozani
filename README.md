@@ -8,7 +8,7 @@
 - **Frameworks:** .NET  
 - **Databases:** MS SQL Server 
 - **Tools:** Git, GitHub, Draw.io, Visual Studio
-- **Currently Learning:** JavaScript, Node.js  
+- **Currently Learning:** JavaScript
 
 🛠️ Projects:
 # Delta Driving School FES
